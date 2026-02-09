@@ -80,10 +80,23 @@ This project solves these problems by converting DSA concepts into **interactive
 | Recursion | The Maze |
 
 ---
+## ▶️ How to Run
 
-## 📜 Main Menu
-```cpp
-void menu() {
-    cout << "\n ----- Our Menu for Today -----";
-    cout << "\n1) Insertion\n2) Deletion\n3) Linear Search\n4) Binary Search\n5) Bubble Sort\n6) Selection Sort\n7) Insertion Sort\n8) Recursion\n9) Stack\n10) Linear Queue\n11) Circular Queue\n12) Singly Linked List\n13) Doubly Linked List\n0) Exit";
-}
+1) Download the Source.cpp File
+2) Open it in any CPP supported IDE (Visual studio, Dev Cpp,etc)
+3) Compile and Run the file
+4) Enjoy the Game
+
+
+## 🌟 Key Features
+Step-by-step visualization
+Interactive gameplay-based learning
+User-defined inputs
+Beginner-friendly console output
+Covers complete DSA syllabus (Linear Structures)
+
+## 📌 Conclusion
+The DSA Simulator bridges the gap between theory and practical understanding by transforming traditional DSA learning into an engaging and interactive experience. It helps students build strong conceptual foundations through visualization and experimentation.
+
+## 🙌 Acknowledgment
+We would like to thank Ms. Maryam Imtiaz for her guidance and support throughout this project.
